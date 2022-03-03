@@ -24,7 +24,7 @@
 //console.log( "Meu nome é:" + " "+nome + " "+sobrenome + " Tenho: " + " " +idade + " " +email );
 
 var valorum = 10;
-var valordois = 3;
+var valordois = 2;
 var total;
 
 total = valorum % valordois
